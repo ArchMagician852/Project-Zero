@@ -1,0 +1,1 @@
+-Wl,--build-id=sha1  -nostdlib -static -Wl,-z,max-page-size=0x1000 -Wl,-z,noexecstack -Wl,--gc-sections -Wl,-T,linker-scripts/x86_64.lds -Wl,-m,elf_x86_64 -no-pie -Wl,-no-pie

@@ -1,0 +1,1 @@
+-nostdinc -I src -I limine-protocol/include -isystem freestanding-c-hdrs/include  -MMD -MP

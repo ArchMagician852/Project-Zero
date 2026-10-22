@@ -1,0 +1,1 @@
+-g -O2 -pipe -Wall -Wextra -std=gnu11 -ffreestanding -fno-exceptions -fno-common -fno-stack-protector -fno-stack-check -fno-PIC -ffunction-sections -fdata-sections -m64 -march=x86-64 -mno-mmx -mno-sse -mno-red-zone -mcmodel=kernel -fno-stack-clash-protection -fcf-protection=none -mno-80387
